@@ -1,0 +1,6 @@
+
+Para rodar o programa simplesmente tem de executar:
+    python main.py -> Ira criar 30 ficheiros, em que cada um tem as melhores accuracies de cada geração.
+
+Um grafico irá aparecer no inicio. Apenas tem de fechar a janela para continuar a execução.
+
